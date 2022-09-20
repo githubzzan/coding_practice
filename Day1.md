@@ -1,27 +1,31 @@
-# 1번
+# 1번 문제
 ![image](https://user-images.githubusercontent.com/97568475/191288524-fb843b93-e62d-4a57-82cb-0a702b219c3d.png)
 
 -------------------------------------------------------------------------------
 # 1번 해답 코드
 
-### SELECT ANIMAL_ID, NAME
-### from ANIMAL_INS
+```
+SELECT ANIMAL_ID, NAME
+from ANIMAL_INS
+```
 -------------------------------------------------------------------------------
 # 1번 피드백
 
 없음
 
 -------------------------------------------------------------------------------
-# 2번
+# 2번 문제
 ![image](https://user-images.githubusercontent.com/97568475/191288394-5ef9f4da-740e-475f-bab1-cd666a49b500.png)
 
 -------------------------------------------------------------------------------
 # 2번 내가 쓴 코드
 
-### SELECT ANIMAL_ID, NAME, DATETIME FROM ANIMAL_INS
-### ORDER BY NAME, DATETIME DESC
+``` 
+SELECT ANIMAL_ID, NAME, DATETIME FROM ANIMAL_INS
+ORDER BY NAME, DATETIME DESC
+```
 
 -------------------------------------------------------------------------------
 # 2번 피드백
 
-### 없음
+없음
