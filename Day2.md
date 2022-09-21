@@ -1,4 +1,4 @@
-# SQL 3번 문제(중복 제거하기)
+# SQL 3번 문제(중복 제거하기) SUM,MAX,MIN
 ![image](https://user-images.githubusercontent.com/97568475/191422338-3e1caba0-20a4-4395-a445-d5ee480bb1de.png)
 
 * * *
@@ -13,7 +13,7 @@ SELECT count(distinct NAME) from ANIMAL_INS
 없음
 
 * * *
-# SQL 4번 문제(고양이와 개는 몇 마리 있을까?)
+# SQL 4번 문제(고양이와 개는 몇 마리 있을까?) GROUP BY
 ![image](https://user-images.githubusercontent.com/97568475/191422699-5a400699-e1c4-413f-8691-eea47323f5ef.png)
 
 * * *
