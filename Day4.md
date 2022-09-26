@@ -13,7 +13,7 @@ ORDER BY DATETIME
 없음
 
 * * *
-# 9번 문제(동물 수 구하기) SUM,MAX,MIN
+# 9번 문제(입양 시각 구하기(2)) GROUP BY
 ![image](https://user-images.githubusercontent.com/97568475/191909118-8c5cd999-5405-4916-8aad-9c9b0823a12b.png)
 
 * * *
