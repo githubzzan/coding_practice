@@ -29,7 +29,7 @@ SELECT * from animal_ins
 모든 레코드 조회하는법 알기!
 
 * * *
-# 27번 문제(강원도에 위치한 생산공장 목록 출력하기) SELECT
+# 27번 문제(우유와 요거트가 담긴 장바구니)
 ![image](https://user-images.githubusercontent.com/97568475/194453864-d5c8b2f9-e57f-4eab-aed3-7d3c62ad7c70.png)
 
 
