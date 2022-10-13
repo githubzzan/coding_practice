@@ -17,21 +17,17 @@ self join 으로 2개를 묶고 중복을 제거한 후에 조건을 걸쳐서 �
 
 * * *
 # 28번 문제(경기도에 위치한 식품창고 목록 출력하기) IS NULL
-![image](https://user-images.githubusercontent.com/97568475/195233521-95efd055-253a-459e-bbf0-6452c61ebd81.png)
+![image](https://user-images.githubusercontent.com/97568475/195523619-598ac8ff-7806-41e3-bf7d-2cb9f974ac6a.png)
 
 
 * * *
 # 28번 문제 나의 해답
 ```
-SELECT WAREHOUSE_ID, WAREHOUSE_NAME, ADDRESS, case when FREEZER_YN is null then 'N'
-else FREEZER_YN end
-from FOOD_WAREHOUSE
-where address like '경기도%'
-order by WAREHOUSE_ID
+
 ```
 
 * * *
 # 28번 문제 피드백
-null 값을 N 문자열로 바꿀 수 있는가, 경기도로 시작하는 문자열을 찾을 수 있는가 
+같은 food_type에서 즐겨찾기수로 먼저 비교를 하고 조회하는 방식으로 해야할거같다. 미완성..
 * * *
 
