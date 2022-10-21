@@ -1,5 +1,5 @@
-# 36번 문제(헤비 유저가 소유한 장소)
-![image](https://user-images.githubusercontent.com/97568475/196601310-398bc6cf-f7ee-4daf-95f0-d7aaed728e81.png)
+# 36번 문제(조건별로 분류하여 주문상태 출력하기) string,Date
+![image](https://user-images.githubusercontent.com/97568475/197129435-d4ef0248-b662-495b-a409-d5fc7acdf777.png)
 
 
 * * *
@@ -17,6 +17,6 @@ from food_order;
 
 * * *
 # 36번 문제 피드백
-내부조인을 이용해서 다중쿼리를 이용해서 만들었다.
+case문 활용해서 
 
 * * *
